@@ -1,0 +1,20 @@
+Basic Git Command:
+    - git init
+    - git status
+    - git commit -m "[commit msg]"
+    - git add <fileName>
+    - git add .
+    - git log
+    - git log --oneline
+    - git restore <fileName>
+    - git resote .
+    - git checkout <branchName>
+    - git checkout <commitHashKey short|long>
+
+Git Remote Commands
+    - git remote -v
+    - git remote add origin <repo url>
+    - git remove rm origin 
+    - git push -u origin <branchName master|main|any> 
+    - git push
+    - git pull/fetch

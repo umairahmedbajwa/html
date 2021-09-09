@@ -1,0 +1,9 @@
+W3C?
+    World Wide Web Concorciam. To define Standards.
+What is Markup?
+    Specific set of words for the lang define by W3C.
+        - <element> 
+        - <elementOpening> code here </elementClosing>
+        - <elementName /> [self closed]
+What is HTML?
+    Hyper Text Markup Lang.

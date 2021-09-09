@@ -1,0 +1,21 @@
+<!doctype html />
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content=""/>
+        <meta name="keywords" content=""/>
+        <meta name="description" content=""/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no " />
+        <title>Page Title/Page Name</title>
+    </head>
+    <body attributeName="">
+        <h1></h1>
+        <h2></h2>
+        <h3></h3>
+        <h4></h4>
+        <h5></h5>
+        <h6></h6>
+        <p attributeName="">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Apparet statim, quae sint officia, quae actiones. Quod quidem iam fit etiam in Academia. Duo Reges: constructio interrete. Summus dolor plures dies manere non potest? Quis, quaeso, illum negat et bonum virum et comem et humanum fuisse? Quae contraria sunt his, malane? </p>
+        <a></a>
+    </body>
+</html>
